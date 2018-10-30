@@ -1,0 +1,29 @@
+Added Component: Designator=C?(Filter NFM21PC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1ìêô 16Â"; VariantName = "[No Variations]"
+Added Component: Designator=DD?(IC CP2102-GMR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "CP2102-GMR"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor 3303X-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10ê"; VariantName = "[No Variations]"
+Added Component: Designator=X?(Connector KLS1-233-0-0-1-T)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=DD?-9
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=VDDA Pin=C?-3
+Added Net: Name=VDDA
+Change Class Name : Old Net Name=MDQARM_USB_UART New Net Name=MDQARM_MCU
+Added Class: Name=MDQARM_USB_UART
+Added Member To Class: ClassName=MDQARM_MCU Member=Component C? 1ìêÔ 16Â
+Added Member To Class: ClassName=MDQARM_MCU Member=Component C? 0,1
+Added Member To Class: ClassName=MDQARM_MCU Member=Component C? 0,1
+Added Member To Class: ClassName=MDQARM_MCU Member=Component C? 0,01
+Added Member To Class: ClassName=MDQARM_MCU Member=Component DD? STM32F100C8T6B
+Added Member To Class: ClassName=MDQARM_MCU Member=Component HG? WH1602
+Added Member To Class: ClassName=MDQARM_MCU Member=Component R? 10ê
+Added Member To Class: ClassName=MDQARM_MCU Member=Component ZQ? 8 ÌÃö
