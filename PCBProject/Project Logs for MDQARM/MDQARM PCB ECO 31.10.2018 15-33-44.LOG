@@ -1,0 +1,134 @@
+Change Component DesignItemId : Designator=R? Old DesignItemId=Resistor R0805_2k_5% New DesignItemId=Resistor R0805_4.7k_5%
+Change Component DesignItemId : Designator=R? Old DesignItemId=Resistor R0805_2k_5% New DesignItemId=Resistor R0805_4.7k_5%
+Change Component Comment : Designator=R? Old Comment=2ê New Comment=4,7ê
+Change Component Comment : Designator=R? Old Comment=2ê New Comment=4,7ê
+Change component parameters: Designator = "R?"; Footprint = "Resistor SMD0805"; UniqueID = "\RQDGWXHY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7ê"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R?"; Footprint = "Resistor SMD0805"; UniqueID = "\YEIKPLUA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "4,7ê"; VariantName = "[No Variations]"
+Added Component: Designator=C?(Capacitor SMD0805-T0.75)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0,01"; VariantName = "[No Variations]"
+Added Component: Designator=C?(Capacitor SMD0805-T0.95)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0,1"; VariantName = "[No Variations]"
+Added Component: Designator=HG?(Indicator WH1602)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "WH1602"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor 3303X-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10ê"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor SMD0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1ê"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor SMD0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1ê"; VariantName = "[No Variations]"
+Added Component: Designator=R?(Resistor SMD0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Button KLS7-TS6604-4.3-180)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "KLS7-TS6604-4.3-180"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Button KLS7-TS6604-4.3-180)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "KLS7-TS6604-4.3-180"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Button KLS7-TS6604-4.3-180)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "KLS7-TS6604-4.3-180"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Button KLS7-TS6604-4.3-180)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "KLS7-TS6604-4.3-180"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Button KLS7-TS6604-4.3-180)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "KLS7-TS6604-4.3-180"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(Button KLS7-TS6604-4.3-180)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "KLS7-TS6604-4.3-180"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(Diode SMD0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VT?(Transistor SOT23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "BC847B"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=HG?-1
+Added Pin To Net: NetName=LCD_RS Pin=HG?-4
+Added Pin To Net: NetName=GND Pin=HG?-5
+Added Pin To Net: NetName=LCD_E Pin=HG?-6
+Added Pin To Net: NetName=GND Pin=HG?-7
+Added Pin To Net: NetName=GND Pin=HG?-8
+Added Pin To Net: NetName=GND Pin=HG?-9
+Added Pin To Net: NetName=GND Pin=HG?-10
+Added Pin To Net: NetName=LCD_D4 Pin=HG?-11
+Added Pin To Net: NetName=LCD_D5 Pin=HG?-12
+Added Pin To Net: NetName=LCD_D6 Pin=HG?-13
+Added Pin To Net: NetName=LCD_D7 Pin=HG?-14
+Added Pin To Net: NetName=BRIGHT Pin=R?-1
+Added Pin To Net: NetName=BRIGHT Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-3
+Added Pin To Net: NetName=GND Pin=SB?-2
+Added Pin To Net: NetName=GND Pin=SB?-2
+Added Pin To Net: NetName=GND Pin=SB?-2
+Added Pin To Net: NetName=GND Pin=SB?-2
+Added Pin To Net: NetName=GND Pin=SB?-2
+Added Pin To Net: NetName=GND Pin=SB?-2
+Added Pin To Net: NetName=BTN0 Pin=SB?-3
+Added Pin To Net: NetName=BTN1 Pin=SB?-3
+Added Pin To Net: NetName=BTN2 Pin=SB?-3
+Added Pin To Net: NetName=BTN3 Pin=SB?-3
+Added Pin To Net: NetName=BTN4 Pin=SB?-3
+Added Pin To Net: NetName=BTN5 Pin=SB?-3
+Added Pin To Net: NetName=GND Pin=VD?-2
+Added Pin To Net: NetName=GND Pin=VT?-2
+Added Pin To Net: NetName=NetHG?_15 Pin=HG?-15
+Added Pin To Net: NetName=NetHG?_15 Pin=R?-1
+Added Net: Name=NetHG?_15
+Added Pin To Net: NetName=NetHG?_16 Pin=HG?-16
+Added Pin To Net: NetName=NetHG?_16 Pin=VT?-3
+Added Net: Name=NetHG?_16
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=VT?-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=VDD_D Pin=C?-2
+Added Pin To Net: NetName=VDD_D Pin=HG?-2
+Added Pin To Net: NetName=VDD_D Pin=R?-1
+Added Pin To Net: NetName=VDD_D Pin=R?-2
+Added Net: Name=VDD_D
+Added Member To Class: ClassName=MDQARM_MCU Member=Component C? 0,1
+Added Member To Class: ClassName=MDQARM_MCU Member=Component C? 0,01
+Added Member To Class: ClassName=MDQARM_MCU Member=Component C? 1,0
+Added Member To Class: ClassName=MDQARM_MCU Member=Component C? 0,1
+Added Member To Class: ClassName=MDQARM_MCU Member=Component C? 0,01
+Added Member To Class: ClassName=MDQARM_MCU Member=Component C? 0,1
+Added Member To Class: ClassName=MDQARM_MCU Member=Component C? 0,1
+Added Member To Class: ClassName=MDQARM_MCU Member=Component C? 10,0
+Added Member To Class: ClassName=MDQARM_MCU Member=Component C? 0,1
+Added Member To Class: ClassName=MDQARM_MCU Member=Component C? 30
+Added Member To Class: ClassName=MDQARM_MCU Member=Component C? 30
+Added Member To Class: ClassName=MDQARM_MCU Member=Component DD? STM32F100C8T6B
+Added Member To Class: ClassName=MDQARM_MCU Member=Component HG? WH1602
+Added Member To Class: ClassName=MDQARM_MCU Member=Component R? 1ê
+Added Member To Class: ClassName=MDQARM_MCU Member=Component R? 1ê
+Added Member To Class: ClassName=MDQARM_MCU Member=Component R? 100
+Added Member To Class: ClassName=MDQARM_MCU Member=Component R? 1ê
+Added Member To Class: ClassName=MDQARM_MCU Member=Component R? 4,7ê
+Added Member To Class: ClassName=MDQARM_MCU Member=Component R? 10ê
+Added Member To Class: ClassName=MDQARM_MCU Member=Component R? 10ê
+Added Member To Class: ClassName=MDQARM_MCU Member=Component R? 4,7ê
+Added Member To Class: ClassName=MDQARM_MCU Member=Component R? 1ê
+Added Member To Class: ClassName=MDQARM_MCU Member=Component R? 10ê
+Added Member To Class: ClassName=MDQARM_MCU Member=Component R? 100
+Added Member To Class: ClassName=MDQARM_MCU Member=Component R? 100
+Added Member To Class: ClassName=MDQARM_MCU Member=Component SB? KLS7-TS6604-4.3-180
+Added Member To Class: ClassName=MDQARM_MCU Member=Component SB? KLS7-TS6604-4.3-180
+Added Member To Class: ClassName=MDQARM_MCU Member=Component SB? KLS7-TS6604-4.3-180
+Added Member To Class: ClassName=MDQARM_MCU Member=Component SB? KLS7-TS6604-4.3-180
+Added Member To Class: ClassName=MDQARM_MCU Member=Component SB? KLS7-TS6604-4.3-180
+Added Member To Class: ClassName=MDQARM_MCU Member=Component SB? KLS7-TS6604-4.3-180
+Added Member To Class: ClassName=MDQARM_MCU Member=Component VD? RED
+Added Member To Class: ClassName=MDQARM_MCU Member=Component VT? BC847B
+Added Member To Class: ClassName=MDQARM_MCU Member=Component X? PLS-4
+Added Member To Class: ClassName=MDQARM_MCU Member=Component X? PLS-3
