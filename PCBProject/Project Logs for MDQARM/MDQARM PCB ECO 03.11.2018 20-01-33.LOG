@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C7 Old Footprint=Capacitor SMD0805-T0.75 New Footprint=Capacitor SMD0805_5mm
+Change Component Footprint: Designator=C4 Old Footprint=Capacitor SMD0805-T0.95 New Footprint=Capacitor SMD0805_5mm
+Change Component Comment : Designator=C7 Old Comment=33 New Comment=0,033
+Change component parameters: Designator = "C7"; Footprint = "Capacitor SMD0805_5mm"; UniqueID = "\UOLDIECH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "0,033"; VariantName = "[No Variations]"
