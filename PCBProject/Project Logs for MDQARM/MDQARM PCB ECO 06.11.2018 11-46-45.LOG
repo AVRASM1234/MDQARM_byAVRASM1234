@@ -1,0 +1,12 @@
+Added Component: Designator=DA1(IC AD8606ARZ)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "AD8606ARZ"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC6_2 Pin=DA1-1
+Added Pin To Net: NetName=NetC6_1 Pin=DA1-2
+Added Pin To Net: NetName=NetDA1_3 Pin=DA1-3
+Added Pin To Net: NetName=GND Pin=DA1-4
+Added Pin To Net: NetName=NetC2_2 Pin=DA1-5
+Added Pin To Net: NetName=NetDA1_6 Pin=DA1-6
+Added Pin To Net: NetName=NetDA1_6 Pin=DA1-7
+Added Pin To Net: NetName=NetC1_1 Pin=DA1-8
+Added Member To Class: ClassName=MDQARM_COIL Member=Component DA1 AD8606ARZ
