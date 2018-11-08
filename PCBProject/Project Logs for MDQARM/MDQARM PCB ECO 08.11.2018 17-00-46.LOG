@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=SB3-2
+Removed Pin From Net: NetName=BTN2 Pin=SB3-3
+Added Pin To Net: NetName=BTN2 Pin=SB3-2
+Added Pin To Net: NetName=GND Pin=SB3-3
+Added Member To Class: ClassName=MDQARM_MCU Member=Component ZQ1 8 ÌÃö
